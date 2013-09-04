@@ -4,7 +4,7 @@ Tällä opintojaksolla opit käyttämään _GitHubia_ ja _GitHub for Windowsia_ 
 
 Aloitetaan heti:
 
-Ensimmäinen tehtäväsi on rekisteröityä _GitHubiin_ osoitteessa [github.com](https://github.com/). **Vinkki!** Älä laita sähköpostiosoitteeksi koulun sähköpostiosoitetta vaan oman koodauspostilaatikkosi osoite.
+Ensimmäinen tehtäväsi on rekisteröityä _GitHubiin_ osoitteessa [github.com](https://github.com/). **Vinkki!** Laita sähköpostiosoitteeksi mieluiten oman koodauspostilaatikkosi osoite.
 
 Seuraavaksi sinun tulee asentaa _GitHub for Windows_, mikäli sitä ei vielä ole asennettu. Asennusohjelman saat ladattua osoitteesta [windows.github.com](https://windows.github.com/).
 
@@ -22,3 +22,9 @@ Kun haluat oppia lisää Gitistä, vilkaise näitä:
 * [Git Ready -opas](http://gitready.com/)
 * [Git manuaali](http://git-scm.com/docs)
 * [Pro Git -kirja](http://git-scm.com/book)
+
+## Vaihtoehtoja GitHub for Windowsille
+
+Gitistä on olemassa omat versionsa niin Windowsille, Linuxille kuin Mac OS X:llekin. _GitHub for Windows_ on vain yksi monista vaihtoehdoista. Valittavissasi on sekä IDE:hen että resurssienhallintaan integroituja ratkaisuja komentorivityökalujen lisäksi.
+
+Jos käytät jotain IDE:tä, asenna siihen Git-lisäosa. Lisäosatarjontaan kannattaa muutenkin tutustua, sieltä voi löytyä mielenkiintoisia työkaluja. Jos käyttämällesi editorille ei ole Git-lisäosaa, voit hankkia resurssienhallintaan integroidun Gitin, esimerkiksi [TortoiseGitin](https://code.google.com/p/tortoisegit/).
