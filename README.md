@@ -8,6 +8,12 @@ Ensimmäinen tehtäväsi on rekisteröityä _GitHubiin_ osoitteessa [github.com]
 
 Seuraavaksi sinun tulee asentaa _GitHub for Windows_, mikäli sitä ei vielä ole asennettu. Asennusohjelman saat ladattua osoitteesta [windows.github.com](https://windows.github.com/).
 
+## Tiimityöskentelyn aloittaminen
+
+Kun sinulla on _GitHub-tili_ ja _GitHub for Windows_ asennettuna, voit aloittaa tiimityöskentelyn.
+
+Forkkaa ja kloonaa alkajaisiksi [tiimityoskentely-harjoitus](https://github.com/haapajarven-ammattiopisto/tiimityoskentely-harjoitus) ja tee _tehtävä 1_. Tulet käyttämään tätä repoa opintojakson aikana erilaisiin yhteistyöharjoituksiin.
+
 ## Oppaita ja ohjeita GitHubin ja Gitin käyttöön
 
 * [GitHubin ohjesivusto](https://help.github.com/)
