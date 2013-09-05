@@ -4,15 +4,15 @@ Tällä opintojaksolla opit käyttämään _GitHubia_ ja _GitHub for Windowsia_ 
 
 Aloitetaan heti:
 
-Ensimmäinen tehtäväsi on rekisteröityä _GitHubiin_ osoitteessa [github.com](https://github.com/). **Vinkki!** Laita sähköpostiosoitteeksi mieluiten oman koodauspostilaatikkosi osoite.
+Ensimmäinen tehtäväsi on rekisteröityä _GitHubiin_ osoitteessa [github.com] [github]. **Vinkki!** Laita sähköpostiosoitteeksi mieluiten oman koodauspostilaatikkosi osoite.
 
-Seuraavaksi sinun tulee asentaa _GitHub for Windows_, mikäli sitä ei vielä ole asennettu. Asennusohjelman saat ladattua osoitteesta [windows.github.com](https://windows.github.com/).
+Seuraavaksi sinun tulee asentaa _GitHub for Windows_, mikäli sitä ei vielä ole asennettu. Asennusohjelman saat ladattua osoitteesta [windows.github.com] [github windows].
 
 ## Tiimityöskentelyn aloittaminen
 
 Kun sinulla on _GitHub-tili_ ja _GitHub for Windows_ asennettuna, voit aloittaa tiimityöskentelyn.
 
-Forkkaa ja kloonaa alkajaisiksi [tiimityoskentely-harjoitus](https://github.com/haapajarven-ammattiopisto/tiimityoskentely-harjoitus) ja tee _tehtävä 1_. Tulet käyttämään tätä repoa opintojakson aikana erilaisiin yhteistyöharjoituksiin.
+Forkkaa ja kloonaa alkajaisiksi [tiimityoskentely-harjoitus] [harjoitus-repo] ja tee _tehtävä 1_. Tulet käyttämään tätä repoa opintojakson aikana erilaisiin yhteistyöharjoituksiin.
 
 ## Oppaita ja ohjeita GitHubin ja Gitin käyttöön
 
@@ -33,4 +33,9 @@ Kun haluat oppia lisää Gitistä, vilkaise näitä:
 
 Gitistä on olemassa omat versionsa niin Windowsille, Linuxille kuin Mac OS X:llekin. _GitHub for Windows_ on vain yksi monista vaihtoehdoista. Valittavissasi on sekä IDE:hen että resurssienhallintaan integroituja ratkaisuja komentorivityökalujen lisäksi.
 
-Jos käytät jotain IDE:tä, asenna siihen Git-lisäosa. Lisäosatarjontaan kannattaa muutenkin tutustua, sieltä voi löytyä mielenkiintoisia työkaluja. Jos käyttämällesi editorille ei ole Git-lisäosaa, voit hankkia resurssienhallintaan integroidun Gitin, esimerkiksi [TortoiseGitin](https://code.google.com/p/tortoisegit/).
+Jos käytät jotain IDE:tä, asenna siihen Git-lisäosa. Lisäosatarjontaan kannattaa muutenkin tutustua, sieltä voi löytyä mielenkiintoisia työkaluja. Jos käyttämällesi editorille ei ole Git-lisäosaa, voit hankkia resurssienhallintaan integroidun Gitin, esimerkiksi [TortoiseGitin] [tortoise git].
+
+[github]:         https://github.com/
+[github windows]: https://windows.github.com/
+[harjoitus-repo]: https://github.com/haapajarven-ammattiopisto/tiimityoskentely-harjoitus
+[tortoise git]:   https://code.google.com/p/tortoisegit/
