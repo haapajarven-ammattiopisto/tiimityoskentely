@@ -12,7 +12,7 @@ Seuraavaksi sinun tulee asentaa _GitHub for Windows_, mikäli sitä ei vielä ol
 
 Kun sinulla on _GitHub-tili_ ja _GitHub for Windows_ asennettuna, voit aloittaa tiimityöskentelyn.
 
-Forkkaa ja kloonaa alkajaisiksi [tiimityoskentely-harjoitus] [harjoitus-repo] ja tee _tehtävä 1_. Tulet käyttämään tätä repoa opintojakson aikana erilaisiin yhteistyöharjoituksiin.
+Forkkaa ja kloonaa alkajaisiksi [tiimityoskentely-harjoitus] [harjoitus-repo] ja tee _tehtävät 1 ja 2_. Tulet käyttämään tätä repoa opintojakson aikana erilaisiin yhteistyöharjoituksiin.
 
 ## Oppaita ja ohjeita GitHubin ja Gitin käyttöön
 
